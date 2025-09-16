@@ -1,2 +1,1 @@
-# machine-learning-algorithms
-This repository contains projects created for educational purposes about basic machine learning algorithms.
+There is an .ipynb which demonstrates the use of a custom Artificial Neural Network for a classification task using mnist dataset and comparing its performance to the one of a Convolutional Neural Network.
